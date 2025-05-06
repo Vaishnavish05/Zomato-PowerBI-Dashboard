@@ -1,9 +1,28 @@
 # 🍽️ Zomato Restaurant Analysis - Power BI Dashboard
 
-This project is an interactive restaurant analysis dashboard built in Power BI using Zomato dataset.
+An interactive Power BI dashboard that analyzes Zomato restaurant data across countries, cuisines, cities, and more.  
+Built for data visualization practice and to generate actionable business insights.
 
-## 📌 Features
-- Filters by Year and Country
-- Insights on average ratings, votes, cuisines
-- Online delivery and table booking stats
-- City-wise and cuisine-wise restaurant count
+---
+
+## 🖼️ Project Screenshot
+
+![Zomato Dashboard Preview](https://github.com/Vaishnavish05/Zomato-PowerBI-Dashboard/blob/main/Zomato%20dashboard%20Snapshot.png)
+
+---
+
+## ✨ Features
+
+- 🔍 Slicer filters for countries, cities, and year
+- 📊 KPIs for restaurant count, average rating, and cuisine types
+- 🌍 Interactive visuals: map, pie chart, and bar charts
+- 🍜 Cuisine vs Ratings analysis
+- 🚚 Online delivery & table booking insights
+
+---
+
+## 🧩 Installation Steps
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Vaishnavish05/Zomato-PowerBI-Dashboard.git
